@@ -10,5 +10,7 @@ Out of all the keyboard changes that one has to adjust to when using both Window
 Using the MacOS tool hidutil, keypad_remap.sh will remap a Mac numeric keypad to behave more like a PC one. Using keypad_unmap.sh will undo the change.
 
 The information about hidutil that I referenced came from here:
+
 https://apple.stackexchange.com/questions/283252/how-do-i-remap-a-key-in-macos-sierra-e-g-right-alt-to-right-control
+
 https://developer.apple.com/library/archive/technotes/tn2450/_index.html

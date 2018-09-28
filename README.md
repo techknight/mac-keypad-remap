@@ -5,7 +5,7 @@ PC numeric keypads usually have a large plus key, followed by minus in the corne
 
 Mac numeric keypads usually have a small plus key, followed by minus, and then the asterisk in the corner.
 
-Out of all the keyboard changes that one has to adjust to when using both Windows and MacOS devices, this difference is the most uncomfortable for me.
+Out of all the keyboard changes that one has to adjust to when using both Windows and MacOS devices, this difference is the most uncomfortable for me. (Usually when typing dates.)
 
 Using the MacOS tool hidutil, keypad_remap.sh will remap a Mac numeric keypad to behave more like a PC one. Using keypad_unmap.sh will undo the change.
 

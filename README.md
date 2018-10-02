@@ -15,6 +15,8 @@ Out of all the keyboard changes that one has to adjust to when using both Window
 - Run `keypad_remap.sh` to remap your Mac numeric keypad to behave more like a PC one.
 - Run `keypad_unmap.sh` to undo the remapping.
 
+Note: Remapping does not persist between reboots. 
+
 ## Reference
 
 The script makes use of the MacOS utility `hidutil` to remap the keys, which is documented here:
